@@ -1,6 +1,13 @@
 <template>
   <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
+    <TodoForm />
   </div>
 </template>
+
+<script setup>
+
+</script>
+
+<style>
+
+</style>
